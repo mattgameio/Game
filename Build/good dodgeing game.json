@@ -1,0 +1,13 @@
+{
+"companyName": "DefaultCompany",
+"productName": "game",
+"dataUrl": "good dodgeing game.data.unityweb",
+"asmCodeUrl": "good dodgeing game.asm.code.unityweb",
+"asmMemoryUrl": "good dodgeing game.asm.memory.unityweb",
+"asmFrameworkUrl": "good dodgeing game.asm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
